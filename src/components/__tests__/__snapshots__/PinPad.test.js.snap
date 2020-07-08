@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PinPad Component matches the snapshot 1`] = `
+<section
+  className="sc-AxjAm dmFqzf"
+>
+  <section
+    className="sc-AxirZ glVpXs"
+  >
+    <section
+      className="sc-AxiKw cCChKf"
+    >
+      <p>
+        
+      </p>
+    </section>
+  </section>
+  <section
+    className="sc-AxhUy inSJRW"
+  >
+    <section
+      className="sc-AxgMl iIjfol"
+    >
+      <div
+        className="sc-AxheI jXaxWO"
+        onClick={[Function]}
+      >
+        0
+      </div>
+      <div
+        className="sc-AxheI jXaxWO"
+        onClick={[Function]}
+      >
+        1
+      </div>
+      <div
+        className="sc-AxheI jXaxWO"
+        onClick={[Function]}
+      >
+        2
+      </div>
+      <div
+        className="sc-AxheI jXaxWO"
+        onClick={[Function]}
+      >
+        3
+      </div>
+      <div
+        className="sc-AxheI jXaxWO"
+        onClick={[Function]}
+      >
+        4
+      </div>
+      <div
+        className="sc-AxheI jXaxWO"
+        onClick={[Function]}
+      >
+        5
+      </div>
+      <div
+        className="sc-AxheI jXaxWO"
+        onClick={[Function]}
+      >
+        6
+      </div>
+      <div
+        className="sc-AxheI jXaxWO"
+        onClick={[Function]}
+      >
+        7
+      </div>
+      <div
+        className="sc-AxheI jXaxWO"
+        onClick={[Function]}
+      >
+        8
+      </div>
+      <div
+        className="sc-AxheI jXaxWO"
+        onClick={[Function]}
+      >
+        9
+      </div>
+      <div
+        className="sc-AxheI jXaxWO"
+        onClick={[Function]}
+      >
+        X
+      </div>
+    </section>
+  </section>
+</section>
+`;

@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Display Component matches the snapshot 1`] = `
+<section
+  className="sc-AxjAm hEXMYP"
+>
+  <section
+    className="sc-AxirZ gatVRf"
+  />
+</section>
+`;

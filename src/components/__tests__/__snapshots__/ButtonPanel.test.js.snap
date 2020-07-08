@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ButtonPanel Component matches the snapshot 1`] = `
+<section
+  className="sc-AxjAm deJgmo"
+>
+  <section
+    className="sc-AxirZ hFvKcS"
+  >
+    <div
+      className="sc-AxiKw jfrPL"
+      onClick={[Function]}
+    >
+      0
+    </div>
+    <div
+      className="sc-AxiKw jfrPL"
+      onClick={[Function]}
+    >
+      1
+    </div>
+    <div
+      className="sc-AxiKw jfrPL"
+      onClick={[Function]}
+    >
+      2
+    </div>
+    <div
+      className="sc-AxiKw jfrPL"
+      onClick={[Function]}
+    >
+      3
+    </div>
+    <div
+      className="sc-AxiKw jfrPL"
+      onClick={[Function]}
+    >
+      4
+    </div>
+    <div
+      className="sc-AxiKw jfrPL"
+      onClick={[Function]}
+    >
+      5
+    </div>
+    <div
+      className="sc-AxiKw jfrPL"
+      onClick={[Function]}
+    >
+      6
+    </div>
+    <div
+      className="sc-AxiKw jfrPL"
+      onClick={[Function]}
+    >
+      7
+    </div>
+    <div
+      className="sc-AxiKw jfrPL"
+      onClick={[Function]}
+    >
+      8
+    </div>
+    <div
+      className="sc-AxiKw jfrPL"
+      onClick={[Function]}
+    >
+      9
+    </div>
+    <div
+      className="sc-AxiKw jfrPL"
+      onClick={[Function]}
+    >
+      X
+    </div>
+  </section>
+</section>
+`;
